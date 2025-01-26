@@ -1,0 +1,1 @@
+# Calificador-de-estrallas
